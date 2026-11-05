@@ -1,0 +1,7 @@
+﻿NAME=Vladyslav Senyshch
+N=16
+NT=3  INC=520  B=4  P=1  C=2
+MEM_MB=192  DELTA=0.2
+TOKEN=LAB3-16-79
+OS=Microsoft Windows 11 Pro (10.0.22000, 64-bit)
+LANGUAGE=Python; TOOLCHAIN=CPython 3.14.0
